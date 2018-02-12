@@ -1,8 +1,8 @@
 # Site settings
 title: WELL-BEING
-SEOTitle: 朱新培的修真之路 | WELL-BEING
+SEOTitle: 一个码农的修真之路 | WELL-BEING
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: xinpei5120@gmail.com
 description: "Every failure is leading towards success."
 keyword: "ZXP,朱新培, 朱新培的修真之路, iOS, Apple, iPhone"
 url: "http://wellbeing2014.github.io"          # your host, for absolute URL
@@ -11,7 +11,8 @@ github_repo: "https://github.com/wellbeing2014/wellbeing2014.github.io.git" # yo
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "三思而后行( Look before you leap。Think first, Program later)"
+sidebar-about-description: "三思而后行
+( Look before you leap。Think first, Program later)"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -94,13 +95,17 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "朱家群晖系统",
+        title: "群晖系统",
         href: "http://peipei.f3322.net:5000/"
     },{
         title: "供职单位",
         href: "http://www.wisoft.com.cn/"
     },{
-        title: "原创作品HOPPER",
+        title: "原创作品",
         href: "https://pan.baidu.com/s/1o7M1FKm"
+    },{
+        title: "GITHUB",
+        href: "https://wellbeing2014.github.com"
     }
+    
 ]
